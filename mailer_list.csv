@@ -1,0 +1,5 @@
+name,email,file,cc
+abc,abc@gmail.com,file_1.csv,"xyz@gmail.com, 123@gmail.com"
+test,test@gmail.com,file_2.csv,"xyz@gmail.com, 123@gmail.com"
+test_1,test_1@gmail.com,file_3.csv,"xyz@gmail.com, 123@gmail.com"
+test_2,test_2@gmail.com,file_4.csv,"xyz@gmail.com, 123@gmail.com"
