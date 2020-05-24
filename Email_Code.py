@@ -10,7 +10,7 @@ def email (name,receiver,file,cc,password):
     from email.mime.text import MIMEText
    
     subject = "Automated Test Mail - Python"
-    body = 'Hi {}, \n This is an automated mail'.format(name)
+    body = 'Hi {}, \nThis is an automated mail'.format(name)
     sender_email = "sender@gmail.com"    #enter your email here
     receiver_email = receiver
     cc = cc
