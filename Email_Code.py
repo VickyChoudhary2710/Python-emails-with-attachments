@@ -11,7 +11,7 @@ def email (name,receiver,file,cc,password):
    
     subject = "Automated Test Mail - Python"
     body = 'Hi {}, \n This is an automated mail'.format(name)
-    sender_email = "Vicky.choudhary.stats@gmail.com"
+    sender_email = "sender@gmail.com"    #enter your email here
     receiver_email = receiver
     cc = cc
     password = password
